@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Gamigo_Zone_Response_Service\Gamigo_Zone_Response_Service\bin\Debug\Gamigo_Zone_Response_Service.exe.config
+C:\Users\Kris\source\repos\Gamigo_Zone_Response_Service\Gamigo_Zone_Response_Service\bin\Debug\Gamigo_Zone_Response_Service.exe
+C:\Users\Kris\source\repos\Gamigo_Zone_Response_Service\Gamigo_Zone_Response_Service\bin\Debug\Gamigo_Zone_Response_Service.pdb
+C:\Users\Kris\source\repos\Gamigo_Zone_Response_Service\Gamigo_Zone_Response_Service\obj\Debug\Gamigo_Zone_Response_Service.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Gamigo_Zone_Response_Service\Gamigo_Zone_Response_Service\obj\Debug\Gamigo_Zone_Response_Service.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Gamigo_Zone_Response_Service\Gamigo_Zone_Response_Service\obj\Debug\Gamigo_Zone_Response_Service.exe
+C:\Users\Kris\source\repos\Gamigo_Zone_Response_Service\Gamigo_Zone_Response_Service\obj\Debug\Gamigo_Zone_Response_Service.pdb
+C:\Users\Kris\source\repos\Gamigo_Zone_Response_Service\Gamigo_Zone_Response_Service\obj\Debug\Gamigo_Zone_Response_Service.Main.resources
+C:\Users\Kris\source\repos\Gamigo_Zone_Response_Service\Gamigo_Zone_Response_Service\obj\Debug\Gamigo_Zone_Response_Service.csproj.GenerateResource.cache
+C:\Users\Kris\source\repos\Gamigo_Zone_Response_Service\Gamigo_Zone_Response_Service\obj\Debug\Gamigo_Zone_Response_Service.ProjectInstaller.resources
