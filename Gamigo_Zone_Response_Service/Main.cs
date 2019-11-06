@@ -9,7 +9,7 @@ namespace Gamigo_Zone_Response_Service
     {
         public static string responseurl = ("http://127.0.0.1:58492/");
         public static string responsestring = (
-            "[1440][3][{( USA V.0.001 )}]\n" +
+            "[10000][10][{( USA V.0.001 )}]\n" +
             "73B2CCC77269D6B77284E8AC733D962D5839326E5677672C9BCEB73CD8A7276A8\n" +
             "CA5072CC7271513D8473A7E77075D5B7567331216771DC385B76EF052074E1D6C\n" +
             "F746C9D6B74FE459974BE44CD76A4A6017449A67D762AFC43748E0CE07440C61D\n" +
